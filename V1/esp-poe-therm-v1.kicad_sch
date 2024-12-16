@@ -24077,7 +24077,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4,02k/100mW"
+		(property "Value" "4,02k/62,5mW"
 			(at 177.8 222.25 0)
 			(effects
 				(font
@@ -24086,7 +24086,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Tales:R_0603_1608Metric"
+		(property "Footprint" "Tales:R_0402_1005Metric"
 			(at 176.276 222.504 90)
 			(effects
 				(font
@@ -24113,7 +24113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case" "0603/1608"
+		(property "Case" ""
 			(at 175.26 222.25 0)
 			(effects
 				(font
@@ -24140,7 +24140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr PN" "RT0603BRE074K02L"
+		(property "Mfr PN" "RT0402BRD074K02L"
 			(at 175.26 222.25 0)
 			(effects
 				(font
@@ -24158,7 +24158,7 @@
 				(justify left)
 			)
 		)
-		(property "Vendor PN" "C705863"
+		(property "Vendor PN" "C852810"
 			(at 175.26 222.25 0)
 			(effects
 				(font
@@ -24167,7 +24167,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C705863"
+		(property "LCSC Part #" "C852810"
 			(at 177.8 227.33 0)
 			(effects
 				(font
@@ -24177,6 +24177,15 @@
 			)
 		)
 		(property "JLCPCB BOM" "1"
+			(at 175.26 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402/1005"
 			(at 175.26 222.25 0)
 			(effects
 				(font
