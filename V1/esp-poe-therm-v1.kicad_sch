@@ -13888,7 +13888,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ESP32-WROOM-32E-N4"
+		(property "Value" "ESP32-WROOM-32UE-N4"
 			(at 183.5659 133.35 0)
 			(effects
 				(font
@@ -13897,7 +13897,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Tales:ESP32-WROOM-32"
+		(property "Footprint" "Tales:ESP32-WROOM-32U"
 			(at 181.61 133.35 0)
 			(effects
 				(font
@@ -13933,7 +13933,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C701341"
+		(property "LCSC Part #" "C701344"
 			(at 183.5659 135.89 0)
 			(effects
 				(font
@@ -13969,7 +13969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C701341"
+		(property "Vendor PN" "C701344"
 			(at 181.61 95.25 0)
 			(effects
 				(font
